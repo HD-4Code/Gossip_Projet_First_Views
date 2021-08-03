@@ -1,0 +1,8 @@
+{
+  "name": "GossipProject_PV",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta3",
+    "popper.js": "^1.16.1"
+  }
+}
